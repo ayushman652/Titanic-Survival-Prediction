@@ -246,7 +246,7 @@ Actual  0       97     13
         1       20     49
 ```
 
-![Random Forest Confusion Matrix](outputs/random forest_confusion_matrix.png)
+![Random Forest Confusion Matrix](outputs/random_forest_confusion_matrix.png)
 
 ### 📐 Logistic Regression
 
@@ -275,7 +275,7 @@ Actual  0       98     12
         1       19     50
 ```
 
-![Logistic Regression Confusion Matrix](outputs/logistic regression_confusion_matrix.png)
+![Logistic Regression Confusion Matrix](outputs/logistic_regression_confusion_matrix.png)
 
 ### 🏆 Key Result
 
